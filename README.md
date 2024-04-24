@@ -10,7 +10,7 @@ This program allows you to fetch and download private Roblox Audios
 
 ## How to Use
 1. **Clone or download this repository to your local machine.**
-   - **Clone with Git:** You can clone the repository using Git by copying the repository URL and running `git clone https://github.com/Lukejdjd/Roblox-Audio-Fetcher.git` in your terminal.
+   - **Clone with Git:** You can clone the repository using Git by copying the repository URL and running `git clone https://github.com/Lukejdjd/roblox-audio-fetcher.git` in your terminal.
    - **Download ZIP:** Alternatively, you can download it as a ZIP file by clicking the green **Code** button above and then selecting "Download ZIP".
 2. Install any necessary dependencies by running: **pip install -r requirements.txt**\
 This will install all required dependencies listed in the [requirements](requirements.txt) file.
