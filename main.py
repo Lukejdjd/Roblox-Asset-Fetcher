@@ -102,7 +102,7 @@ def download_all_audio_files(roblox_cookie, place_id, asset_ids):
                                 bar.next(len(chunk))
                                 sleep()
                                 
-                    print(f"\nDownloaded: {sanitized_asset_name} ({human_readable_size(total_size)})")
+                    print(f"\nDownloaded {sanitized_asset_name}: ({human_readable_size(total_size)})")
 
     # Display a message after downloading all assets
     print("All audio assets have been downloaded.")
