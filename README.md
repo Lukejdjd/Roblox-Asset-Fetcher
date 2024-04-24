@@ -6,7 +6,7 @@ This program allows you to fetch and download private Roblox Audios
 ## Features
 - Fetch private Roblox audios
 - Easy to use with clear instructions
-- Allows you to bulk download audios by providing multiple audio IDs separated by commas
+- Bulk download audios by providing multiple audio IDs separated by commas
 
 ## How to Use
 1. **Clone or download this repository to your local machine.**
