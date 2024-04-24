@@ -14,9 +14,9 @@ This program allows you to fetch and download private Roblox Audios
    - **Download ZIP:** Alternatively, you can download it as a ZIP file by clicking the green **Code** button above and then selecting "Download ZIP".
 2. Install any necessary dependencies by running: **pip install -r requirements.txt**\
 This will install all required dependencies listed in the [requirements](requirements.txt) file.
-1. Run the application.
-2. Follow the prompts to input the necessary information (e.g., Roblox audio ID).
-3. The audio file will be fetched and saved inside the "audio-files" folder within the directory where the application is run.
+3. Run the application.
+4. Follow the prompts to input the necessary information (e.g., Roblox audio ID).
+5. The audio file will be fetched and saved inside the "audio-files" folder within the directory where the application is ran.
 
 ## Disclaimer
 This tool is intended for educational and informational purposes only. Any unauthorized use of this tool to access content that you do not have the rights to is strictly prohibited. The developers of this tool are not responsible for any misuse or unlawful activity conducted with it.
