@@ -5,7 +5,6 @@ This program allows you to fetch and download private Roblox Audios
 
 ## Features
 - Fetch private Roblox audios
-- Simple and user-friendly interface
 - Easy to use with clear instructions
 
 ## How to Use
